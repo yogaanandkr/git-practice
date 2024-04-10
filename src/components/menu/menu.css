@@ -1,0 +1,18 @@
+.menu-all {
+  height: 100px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.menu-items {
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu-all button {
+  background-color: transparent;
+  color: gray;
+}
